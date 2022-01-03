@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2cb902a33622FaAa0EBFe4C3a9d5e6901f2E9C8B",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x2cb902a33622faaa0ebfe4c3a9d5e6901f2e9c8b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Royal Demons",
+  "SYMBOL": "RDMNS",
+  "MAX_SUPPLY": 666,
+  "WEI_COST": 66600000000000000,
+  "DISPLAY_COST": 0.0666,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/royal-demons-v3",
+  "SHOW_BACKGROUND": true
+}
